@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @chiranjiveesuman
-- 👀 I’m interested in Drupal
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on Drupal projects but mostly backend
-- 📫 How to reach me - sumanchiranjivee@gmail.com
-- ⚡ Fun fact: I'm a fun person.
+👋 Hi, I'm Chiranjivee Suman — AI Engineer & Backend Engineer.
+
+🤖 Building AI-powered applications, RAG pipelines, AI agents, and knowledge systems.
+
+🛠️ Working with Python, TypeScript, FastAPI, React, PostgreSQL, Redis, and LLMs.
+
+🚀 Building [Shrevo](https://shrevoapp.com) — an AI-native engineering operating system.
+
+🌐 Contributing to open-source AI and developer tools, including Code Graph RAG.
+
+🤝 Interested in collaborating on AI engineering, LLM infrastructure, RAG, agent systems, and backend projects.
+
+📫 Reach me at: sumanchiranjivee@gmail.com
 
 <!---
 chiranjiveesuman/chiranjiveesuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
